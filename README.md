@@ -15,5 +15,6 @@ This project utilizes **Python** and **Natural Language Processing (NLP)** to pr
 
 Users can explore relevant recommendations and view detailed descriptions for any selected film — including its storyline, production info, and cast.
  
+![screencapture-personalized-movie-recommender-sys-streamlit-app-2025-07-05-10_52_39](https://github.com/user-attachments/assets/bbfd759d-9399-49cd-ae19-dd96e8077c49)
 
   
